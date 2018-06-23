@@ -35,9 +35,9 @@ For playing / buying the video games. This and Blizzard's [Battle.net](https://w
 ### :fox_face: [Firefox](http://firefox.com/)
 My favourite web browser. Comes with Ubuntu.
 
-### :globe_with_meridians: [Chrome](https://www.google.com/chrome/)
+### :globe_with_meridians: [Chromium](https://www.chromium.org/Home)
 My 2nd favourite web browser. Mainly used for compatibility testing.  
-`$ sudo apt install google-chrome-stable`
+`$ sudo apt install chromium-browser
 
 ### :computer: [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
 Ubuntus default terminal emulator is pretty good.
