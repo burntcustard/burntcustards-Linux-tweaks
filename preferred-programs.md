@@ -37,7 +37,7 @@ My favourite web browser. Comes with Ubuntu.
 
 ### :globe_with_meridians: [Chromium](https://www.chromium.org/Home)
 My 2nd favourite web browser. Mainly used for compatibility testing.  
-`$ sudo apt install chromium-browser
+`$ sudo apt install chromium-browser`
 
 ### :computer: [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
 Ubuntus default terminal emulator is pretty good.
