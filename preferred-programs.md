@@ -12,6 +12,8 @@ My favourite text editor (with [VSCode](https://code.visualstudio.com/) coming i
     <a href="https://github.com/ivogabe/Brackets-Icons">Brackets Icons</a>
     <br>
     <a href="https://github.com/brackets-userland/brackets-sass-lint">Brackets Sass Lint</a>
+    <br>
+    <a href="https://github.com/pockata/brackets-StripTrailingSpaces">Strip trailing spaces</a>
   </dd>
 </dl>
 
