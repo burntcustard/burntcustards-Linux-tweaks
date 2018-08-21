@@ -24,15 +24,12 @@ __Clock - Date__: ON
 
 These are all from https://extensions.gnome.org/
 
-[__Dash to panel__](https://extensions.gnome.org/extension/1160/dash-to-panel/)
+[__Dash to panel__](https://extensions.gnome.org/extension/1160/dash-to-panel/) - A nice Windows-like taskbar
 
-This is a nice Windows-like taskbar
 * Running indicator styles set to __Metro__ and __Segmented__.
 * Ungroup applications __ON__
 
-[__Activities configurator__](https://extensions.gnome.org/extension/358/activities-configurator/)
-
-This lets the taskbar be modified to look a bit nicer.
+[__Activities configurator__](https://extensions.gnome.org/extension/358/activities-configurator/) - To modify the look of the taskbar
 * Remove activities Button __ON__
 * Disable Hot Corner __ON__
 * Set Panel Background __#444__
