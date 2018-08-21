@@ -7,7 +7,7 @@ Applications: Numix
 `$ sudo apt install numix-gtk-theme`  
 Icons: Papirus-Adapta  
 `$ sudo apt install papirus-icon-theme`  
-Background: TODO: When on WiFi add link to nice background image or two.
+Background: https://www.instagram.com/p/BXa3JfChZl2
 
 
 ### Extensions
