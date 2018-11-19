@@ -22,6 +22,10 @@ My favourite text editor (with [VSCode](https://code.visualstudio.com/) coming i
 For text and video chatting to people, groups, and bots.  
 `$ snap install discord`
 
+### :office: [Slack](https://slack.com)
+Like Discord but for work.
+`$ snap install slack --classic`
+
 ### :octocat: [Git](https://git-scm.com/)
 Version control. Mostly used with [GitHub](https://github.com).  
 `$ sudo apt install git`
