@@ -31,7 +31,7 @@ Used to save the majority of my files to. Installed as Nautilus extension for ni
 `$ sudo apt install nautilus-dropbox`
 
 ### :video_game: [Steam](https://store.steampowered.com/about/)
-For playing / buying the video games. This and Blizzard's [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) get used more on my Win10 Desktop).  
+For playing / buying the video games.
 `$ sudo apt install steam`
 
 ### :fox_face: [Firefox](http://firefox.com/)
