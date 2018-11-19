@@ -23,7 +23,7 @@ For text and video chatting to people, groups, and bots.
 `$ snap install discord`
 
 ### :office: [Slack](https://slack.com)
-Like Discord but for work.
+Like Discord but for work.  
 `$ snap install slack --classic`
 
 ### :octocat: [Git](https://git-scm.com/)
