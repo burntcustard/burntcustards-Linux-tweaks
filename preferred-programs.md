@@ -1,18 +1,28 @@
 # Preferred Programs
 
 
+### :memo: [Atom](https://atom.io/)
+My current-favourite text editor  
+`$ snap install atom --classic`  
+`$ apm install autocomplete-emojis fonts pretty-json`  
+<dl>
+  <dt>Extensions</dt>
+  <dd>
+    <a href="https://atom.io/packages/autocomplete-emojis">Autocomplete Emojis</a><br>
+    <a href="https://atom.io/packages/fonts">Fonts, with Source Code Pro Medium Selected</a><br>
+    <a href="https://atom.io/packages/pretty-json">Pretty JSON</a><br>
+  </dd>
+</dl>
+
 ### :memo: [Brackets](http://brackets.io/)
-My favourite text editor (with [VSCode](https://code.visualstudio.com/) coming in a close 2nd).  
+My previous-favourite text editor (with [VSCode](https://code.visualstudio.com/) coming in a close 3rd).  
 `$ snap install brackets --classic`
 <dl>
   <dt>Extensions</dt>
   <dd>
-    <a href="https://github.com/gruehle/MarkdownPreview">Markdown Preview</a>
-    <br>
-    <a href="https://github.com/ivogabe/Brackets-Icons">Brackets Icons</a>
-    <br>
-    <a href="https://github.com/brackets-userland/brackets-sass-lint">Brackets Sass Lint</a>
-    <br>
+    <a href="https://github.com/gruehle/MarkdownPreview">Markdown Preview</a><br>
+    <a href="https://github.com/ivogabe/Brackets-Icons">Brackets Icons</a><br>
+    <a href="https://github.com/brackets-userland/brackets-sass-lint">Brackets Sass Lint</a><br>
     <a href="https://github.com/pockata/brackets-StripTrailingSpaces">Strip trailing spaces</a>
   </dd>
 </dl>
@@ -35,7 +45,7 @@ Used to save the majority of my files to. Installed as Nautilus extension for ni
 `$ sudo apt install nautilus-dropbox`
 
 ### :video_game: [Steam](https://store.steampowered.com/about/)
-For playing / buying the video games.
+For playing / buying the video games.  
 `$ sudo apt install steam`
 
 ### :fox_face: [Firefox](http://firefox.com/)
@@ -44,6 +54,10 @@ My favourite web browser. Comes with Ubuntu.
 ### :globe_with_meridians: [Chromium](https://www.chromium.org/Home)
 My 2nd favourite web browser. Mainly used for compatibility testing.  
 `$ sudo apt install chromium-browser`
+
+### :nut_and_bolt: [Node](https://nodejs.org/) & [NPM](https://www.npmjs.com/)
+JavaScript runtime and a nice package manager for it.  
+`$ sudo apt install nodejs npm`
 
 ### :computer: [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
 Ubuntus default terminal emulator is pretty good.
