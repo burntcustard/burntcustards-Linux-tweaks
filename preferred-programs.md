@@ -56,8 +56,9 @@ My 2nd favourite web browser. Mainly used for compatibility testing.
 `$ sudo apt install chromium-browser`
 
 ### :nut_and_bolt: [Node](https://nodejs.org/) & [NPM](https://www.npmjs.com/)
-JavaScript runtime and a nice package manager for it.  
-`$ sudo apt install nodejs npm`
+JavaScript runtime and a nice package manager for it, via nvm.  
+`$ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash`  
+`$ nvm install node`
 
 ### :computer: [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
 Ubuntus default terminal emulator is pretty good.
