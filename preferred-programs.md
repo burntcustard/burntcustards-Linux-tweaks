@@ -11,22 +11,10 @@ My current-favourite text editor
     <a href="https://atom.io/packages/autocomplete-emojis">Autocomplete Emojis</a><br>
     <a href="https://atom.io/packages/fonts">Fonts, with Source Code Pro Medium Selected</a><br>
     <a href="https://atom.io/packages/pretty-json">Pretty JSON</a><br>
+    <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint</a>
+    <a href="https://atom.io/packages/pigments">Pigments</a>
   </dd>
 </dl>
-
-### :memo: [Brackets](http://brackets.io/)
-My previous-favourite text editor (with [VSCode](https://code.visualstudio.com/) coming in a close 3rd).  
-`$ snap install brackets --classic`
-<dl>
-  <dt>Extensions</dt>
-  <dd>
-    <a href="https://github.com/gruehle/MarkdownPreview">Markdown Preview</a><br>
-    <a href="https://github.com/ivogabe/Brackets-Icons">Brackets Icons</a><br>
-    <a href="https://github.com/brackets-userland/brackets-sass-lint">Brackets Sass Lint</a><br>
-    <a href="https://github.com/pockata/brackets-StripTrailingSpaces">Strip trailing spaces</a>
-  </dd>
-</dl>
-
 
 ### :speech_balloon: [Discord](https://discordapp.com/)
 For text and video chatting to people, groups, and bots.  
