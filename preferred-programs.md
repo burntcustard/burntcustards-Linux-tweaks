@@ -11,9 +11,9 @@ My current-favourite text editor
     <a href="https://atom.io/packages/autocomplete-emojis">Autocomplete Emojis</a><br>
     <a href="https://atom.io/packages/fonts">Fonts, with Source Code Pro Medium Selected</a><br>
     <a href="https://atom.io/packages/pretty-json">Pretty JSON</a><br>
-    <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint</a>
-    <a href="https://atom.io/packages/pigments">Pigments</a>
-    <a href="https://atom.io/packages/sort-lines">Sort Lines</a>
+    <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint</a><br>
+    <a href="https://atom.io/packages/pigments">Pigments</a><br>
+    <a href="https://atom.io/packages/sort-lines">Sort Lines</a><br>
   </dd>
 </dl>
 
