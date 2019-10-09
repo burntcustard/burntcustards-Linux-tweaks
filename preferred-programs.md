@@ -34,7 +34,7 @@ Used to save the majority of my files to. Installed as Nautilus extension for ni
 `$ sudo apt install nautilus-dropbox`
 
 ### :fox_face: [Firefox](http://firefox.com/)
-My favourite web browser. Comes with Ubuntu.
+My favourite web browser. With [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)
 
 ### :globe_with_meridians: [Chromium](https://www.chromium.org/Home)
 My 2nd favourite web browser. Mainly used for compatibility and performance testing.  
