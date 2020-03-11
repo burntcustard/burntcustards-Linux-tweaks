@@ -3,7 +3,7 @@
 
 ### :memo: [Atom](https://atom.io/)
 My current-favourite text editor  
-`$ snap install atom --classic`  
+`$ sudo apt install atom`  
 `$ apm install autocomplete-emojis fonts pretty-json`  
 <dl>
   <dt>Extensions</dt>
