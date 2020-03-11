@@ -4,7 +4,7 @@
 ### :memo: [Atom](https://atom.io/)
 My current-favourite text editor  
 `$ sudo apt install atom`  
-`$ apm install autocomplete-emojis fonts pretty-json`  
+`$ apm install autocomplete-emojis fonts pretty-json linter-sass-lint pigments sort-lines`  
 <dl>
   <dt>Extensions</dt>
   <dd>
