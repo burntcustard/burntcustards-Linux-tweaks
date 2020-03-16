@@ -51,3 +51,8 @@ Ubuntus default terminal emulator is pretty good.
 ### :gear: [Gnome Tweaks](https://wiki.gnome.org/action/show/Apps/Tweaks)
 The desktop environment in Ubuntu is kind of funky. TODO: Tweaks list and link to it here.  
 `$ sudo apt install gnome-tweaks`
+
+### :keyboard: [Autokey](https://github.com/autokey/autokey)
+For complex keyboard shortcuts so I can type '@extend', etc. faster.  
+`$ sudo apt install autokey-gtk`  
+[Fix for pasting blank lines if needed](https://www.codyeding.com/dbus-autokey-ubuntu/)
