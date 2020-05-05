@@ -36,9 +36,10 @@ Used to save the majority of my files to. Installed as Nautilus extension for ni
 ### :fox_face: [Firefox](http://firefox.com/)
 My favourite web browser. With [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)
 
-### :globe_with_meridians: [Chromium](https://www.chromium.org/Home)
-My 2nd favourite web browser. Mainly used for compatibility and performance testing.  
-`$ sudo apt install chromium-browser`
+### :globe_with_meridians: [Chrome](https://www.chromium.org/Home)
+My 2nd favourite web browser. Mainly used for compatibility and performance testing (hence the more popular Chrome over Chromium).  
+`$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`
+`$ sudo dpkg -i google-chrome-stable_current_amd64.deb`
 
 ### :nut_and_bolt: [Node](https://nodejs.org/) & [NPM](https://www.npmjs.com/)
 JavaScript runtime and a nice package manager for it, via n.  
@@ -55,3 +56,8 @@ The desktop environment in Ubuntu is kind of funky. TODO: Tweaks list and link t
 For complex keyboard shortcuts so I can type '@extend', etc. faster.  
 `$ sudo apt install autokey-gtk`  
 [Fix for pasting blank lines if needed](https://www.codyeding.com/dbus-autokey-ubuntu/)
+
+### All at once:
+```
+sudo apt install atom && apm install autocomplete-emojis fonts pretty-json linter-sass-lint pigments sort-lines && snap install discord && snap install slack --classic && sudo apt install git && sudo apt install nautilus-dropbox && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && curl -L https://git.io/n-install | bash && sudo apt install gnome-tweaks && sudo apt install autokey-gtk
+```
