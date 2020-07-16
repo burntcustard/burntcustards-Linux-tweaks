@@ -4,16 +4,18 @@
 ### :memo: [Atom](https://atom.io/)
 My current-favourite text editor  
 `$ sudo apt install atom`  
-`$ apm install autocomplete-emojis fonts pretty-json linter-sass-lint pigments sort-lines`  
+`$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-sass-lint linter-stylelint linter-eslint`  
 <dl>
   <dt>Extensions</dt>
   <dd>
     <a href="https://atom.io/packages/autocomplete-emojis">Autocomplete Emojis</a><br>
     <a href="https://atom.io/packages/fonts">Fonts, with Source Code Pro Medium Selected</a><br>
     <a href="https://atom.io/packages/pretty-json">Pretty JSON</a><br>
-    <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint</a><br>
     <a href="https://atom.io/packages/pigments">Pigments</a><br>
     <a href="https://atom.io/packages/sort-lines">Sort Lines</a><br>
+    <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint</a><br>
+    <a href="https://atom.io/packages/linter-sass-lint">linter-stylelint</a><br>
+    <a href="https://atom.io/packages/linter-eslint">linter-eslint</a><br>
   </dd>
 </dl>
 
