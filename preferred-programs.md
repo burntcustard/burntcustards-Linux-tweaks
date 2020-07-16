@@ -6,7 +6,7 @@ My current-favourite text editor
 `$ sudo apt install atom`  
 `$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-sass-lint linter-stylelint linter-eslint`  
 <dl>
-  <dt>Extensions</dt>
+  <dt>Packages</dt>
   <dd>
     <a href="https://atom.io/packages/autocomplete-emojis">Autocomplete Emojis</a><br>
     <a href="https://atom.io/packages/fonts">Fonts, with Source Code Pro Medium Selected</a><br>
