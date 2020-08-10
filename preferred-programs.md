@@ -4,7 +4,8 @@
 ### :memo: [Atom](https://atom.io/)
 My current-favourite text editor  
 `$ sudo apt install atom`  
-`$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-sass-lint linter-stylelint linter-eslint`  
+`$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-stylelint linter-eslint`  
+
 <dl>
   <dt>Packages</dt>
   <dd>
@@ -13,11 +14,13 @@ My current-favourite text editor
     <a href="https://atom.io/packages/pretty-json">Pretty JSON</a><br>
     <a href="https://atom.io/packages/pigments">Pigments</a><br>
     <a href="https://atom.io/packages/sort-lines">Sort Lines</a><br>
-    <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint</a><br>
-    <a href="https://atom.io/packages/linter-sass-lint">linter-stylelint</a><br>
+    <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint (old projects)</a><br>
+    <a href="https://atom.io/packages/linter-sass-lint">linter-stylelint (new projects)</a><br>
     <a href="https://atom.io/packages/linter-eslint">linter-eslint</a><br>
   </dd>
 </dl>
+
+If linter-eslint isn't working as expected, the scopes list probably needs `source.tsx` and/or other file types added.
 
 ### :speech_balloon: [Discord](https://discordapp.com/)
 For text and video chatting to people, groups, and bots.  
