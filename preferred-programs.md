@@ -4,7 +4,7 @@
 ### :memo: [Atom](https://atom.io/)
 My current-favourite text editor  
 `$ sudo apt install atom`  
-`$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-stylelint linter-eslint`  
+`$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-stylelint linter-eslint atom-ide-terminal`  
 
 <dl>
   <dt>Packages</dt>
@@ -17,6 +17,7 @@ My current-favourite text editor
     <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint (old projects)</a><br>
     <a href="https://atom.io/packages/linter-sass-lint">linter-stylelint (new projects)</a><br>
     <a href="https://atom.io/packages/linter-eslint">linter-eslint</a><br>
+    <a href="https://atom.io/packages/atom-ide-terminal">atom-ide-terminal</a> - other forks of this don't work(?)<br>
   </dd>
 </dl>
 
