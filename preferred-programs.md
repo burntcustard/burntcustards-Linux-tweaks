@@ -3,6 +3,8 @@
 
 ### :memo: [Atom](https://atom.io/)
 My current-favourite text editor  
+`$ wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add`  
+`$ sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'`  
 `$ sudo apt install atom`  
 `$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-stylelint linter-eslint atom-ide-terminal`  
 
