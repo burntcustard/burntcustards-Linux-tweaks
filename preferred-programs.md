@@ -50,7 +50,7 @@ My 2nd favourite web browser. Mainly used for compatibility and performance test
 
 ### :nut_and_bolt: [Node](https://nodejs.org/), [NPM](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
 JavaScript runtime and a nice package manager for it, via n. Also yarn, because some projects might need it.  
-`$ curl -L https://git.io/n-install | bash`
+`$ curl -L https://git.io/n-install | bash`  
 `$ npm install --global yarn`
 
 ### :computer: [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
