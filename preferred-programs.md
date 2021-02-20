@@ -34,7 +34,7 @@ Like Discord but for work.
 `$ flatpak install flathub com.slack.Slack` or `$ snap install slack --classic`
 
 ### :octocat: [Git](https://git-scm.com/)
-Version control. Mostly used with [GitHub](https://github.com).  
+Version control. Mostly used with [GitHub](https://github.com). Included with Pop!_OS.  
 `$ sudo apt install git`
 
 ### :file_folder: [Dropbox](https://github.com/dropbox/nautilus-dropbox)
