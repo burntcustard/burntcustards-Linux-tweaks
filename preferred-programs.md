@@ -46,8 +46,7 @@ My favourite web browser. With [uBlock Origin](https://addons.mozilla.org/en-GB/
 
 ### :globe_with_meridians: [Chrome](https://www.chromium.org/Home)
 My 2nd favourite web browser. Mainly used for compatibility and performance testing (hence the more popular Chrome over Chromium).  
-`$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`
-`$ sudo dpkg -i google-chrome-stable_current_amd64.deb`
+`$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb`  
 
 ### :nut_and_bolt: [Node](https://nodejs.org/) & [NPM](https://www.npmjs.com/)
 JavaScript runtime and a nice package manager for it, via n.  
