@@ -27,11 +27,11 @@ If linter-eslint isn't working as expected, the scopes list probably needs `sour
 
 ### :speech_balloon: [Discord](https://discordapp.com/)
 For text and video chatting to people, groups, and bots.  
-`$ snap install discord`
+`$ flatpak install flathub com.discordapp.Discord` or `$ snap install discord`
 
 ### :office: [Slack](https://slack.com)
 Like Discord but for work.  
-`$ snap install slack --classic`
+`$ flatpak install flathub com.slack.Slack` or `$ snap install slack --classic`
 
 ### :octocat: [Git](https://git-scm.com/)
 Version control. Mostly used with [GitHub](https://github.com).  
