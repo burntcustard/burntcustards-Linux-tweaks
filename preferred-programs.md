@@ -57,6 +57,10 @@ JavaScript runtime and a nice package manager for it, via n. Also yarn, because 
 Database tool.  
 `$ flatpak install flathub io.dbeaver.DBeaverCommunity` or `$ sudo snap install dbeaver-ce`
 
+### 🗄️ [FileZilla](https://filezilla-project.org/)  
+FTP Client.  
+`$ sudo apt install filezilla`  
+
 ### :computer: [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
 Ubuntus default terminal emulator is pretty good.
 
