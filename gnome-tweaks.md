@@ -28,6 +28,7 @@ These are all from https://extensions.gnome.org/
 
 * Running indicator styles set to __Metro__ and __Segmented__.
 * Ungroup applications __ON__
+* Override panel theme background color with #574f4a on Pop!_OS
 
 [__Activities configurator__](https://extensions.gnome.org/extension/358/activities-configurator/) - To modify the look of the taskbar
 * Remove activities Button __ON__
