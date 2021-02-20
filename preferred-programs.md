@@ -53,6 +53,10 @@ JavaScript runtime and a nice package manager for it, via n. Also yarn, because 
 `$ curl -L https://git.io/n-install | bash`  
 `$ npm install --global yarn`
 
+### 🦫 [DBeaver](https://dbeaver.io/)
+Database tool.  
+`$ flatpak install flathub io.dbeaver.DBeaverCommunity` or `$ sudo snap install dbeaver-ce`
+
 ### :computer: [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
 Ubuntus default terminal emulator is pretty good.
 
