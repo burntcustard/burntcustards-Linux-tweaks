@@ -70,7 +70,11 @@ Ubuntus default terminal emulator is pretty good.
 
 ### :gear: [Gnome Tweaks](https://wiki.gnome.org/action/show/Apps/Tweaks)
 The desktop environment in Ubuntu is kind of funky. TODO: Tweaks list and link to it here.  
-`$ sudo apt install gnome-tweaks`
+`$ sudo apt install gnome-tweaks`  
+
+### :musical_note: [Spotify](https://www.spotify.com)
+Music'n'podcasts  
+`$ flatpak install flathub com.spotify.Client`
 
 ### :keyboard: [Autokey](https://github.com/autokey/autokey)
 For complex keyboard shortcuts so I can type '@extend', etc. faster.  
