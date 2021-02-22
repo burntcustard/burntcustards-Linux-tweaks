@@ -73,8 +73,14 @@ The desktop environment in Ubuntu is kind of funky. TODO: Tweaks list and link t
 `$ sudo apt install gnome-tweaks`  
 
 ### :musical_note: [Spotify](https://www.spotify.com)
-Music'n'podcasts  
+Music'n'podcasts.  
 `$ flatpak install flathub com.spotify.Client`
+
+### :whale: [Docker](https://www.docker.com/)  
+For development with containers.  
+* [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
+* [Docker Compose](https://docs.docker.com/compose/install/)
+* [Manage Docker as a non-root user post-install step](https://docs.docker.com/engine/install/linux-postinstall/)
 
 ### :keyboard: [Autokey](https://github.com/autokey/autokey)
 For complex keyboard shortcuts so I can type '@extend', etc. faster.  
