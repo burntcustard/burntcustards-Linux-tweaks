@@ -6,8 +6,15 @@
 
 ### Pop!_OS tweaks
 
-* If the default sound device isn't being saved correctly in Pop!_OS, [try this](https://unix.stackexchange.com/a/362258).
 * USB Sound devices can be completely removed from the list [like this](https://jamielinux.com/blog/tell-pulseaudio-to-ignore-a-usb-device-using-udev/).
+* If the default sound device isn't being saved correctly in Pop!_OS, [try this](https://unix.stackexchange.com/a/362258).  
+  Currently the end of /etc/pulse/default.pa looks like:
+  ```
+  set-card-profile 1 input:analog-stereo
+  set-default-source 0
+  set-card-profile 2 output:iec958-stereo
+  set-default-sink 0
+  ```
 
 ### Disable Lock Screen in Win10
 
