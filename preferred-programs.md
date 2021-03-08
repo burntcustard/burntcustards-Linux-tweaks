@@ -77,7 +77,7 @@ Music'n'podcasts.
 `$ flatpak install flathub com.spotify.Client`
 
 ### :whale: [Docker](https://www.docker.com/)  
-For development with containers.  
+For development with containers.  sudo usermod -aG nordvpn $USER
 * [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
 * [Docker Compose](https://docs.docker.com/compose/install/)
 * [Manage Docker as a non-root user post-install step](https://docs.docker.com/engine/install/linux-postinstall/)
@@ -88,9 +88,8 @@ For complex keyboard shortcuts so I can type '@extend', etc. faster.
 [Fix for pasting blank lines if needed](https://www.codyeding.com/dbus-autokey-ubuntu/)
 
 ### :detective: [NordVPN]
-For accessing client sites that have IP restrictions  
-`sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh)`  
-`sudo usermod -aG nordvpn $USER`  
+For accessing client sites that have IP restrictions.  
+`$ sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh) && sudo usermod -aG nordvpn $USER`  
 (then relog)
 
 ### All at once:
