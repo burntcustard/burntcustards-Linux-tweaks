@@ -6,7 +6,7 @@ My current-favourite text editor
 `$ wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add`  
 `$ sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'`  
 `$ sudo apt install atom`  
-`$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-stylelint linter-eslint atom-ide-terminal`  
+`$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-stylelint linter-eslint platformio-ide-terminal`  
 
 <dl>
   <dt>Packages</dt>
@@ -19,7 +19,7 @@ My current-favourite text editor
     <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint (old projects)</a><br>
     <a href="https://atom.io/packages/linter-sass-lint">linter-stylelint (new projects)</a><br>
     <a href="https://atom.io/packages/linter-eslint">linter-eslint</a><br>
-    <a href="https://atom.io/packages/atom-ide-terminal">atom-ide-terminal</a> - other forks of this don't work(?)<br>
+    <a href="https://atom.io/packages/platformio-ide-terminal">platformio-ide-terminal</a><br>
   </dd>
 </dl>
 
