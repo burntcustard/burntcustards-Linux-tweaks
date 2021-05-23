@@ -87,12 +87,12 @@ For complex keyboard shortcuts so I can type '@extend', etc. faster.
 `$ sudo apt install autokey-gtk`  
 [Fix for pasting blank lines if needed](https://www.codyeding.com/dbus-autokey-ubuntu/)
 
-### :detective: [NordVPN]
+### :detective: [NordVPN](https://nordvpn.com/)
 For accessing client sites that have IP restrictions.  
 `$ sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh) && sudo usermod -aG nordvpn $USER`  
 (then relog)
 
-### All at once:
+### All at once
 ```
 sudo apt install atom && apm install autocomplete-emojis fonts pretty-json linter-sass-lint pigments sort-lines && snap install discord && snap install slack --classic && sudo apt install git && sudo apt install nautilus-dropbox && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && curl -L https://git.io/n-install | bash && sudo apt install gnome-tweaks && sudo apt install autokey-gtk
 ```
