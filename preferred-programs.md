@@ -77,7 +77,7 @@ Music'n'podcasts.
 `$ flatpak install flathub com.spotify.Client`
 
 ### :whale: [Docker](https://www.docker.com/)  
-For development with containers.  sudo usermod -aG nordvpn $USER
+For development with containers.
 * [Docker Engine](https://docs.docker.com/engine/install/ubuntu/)
 * [Docker Compose](https://docs.docker.com/compose/install/)
 * [Manage Docker as a non-root user post-install step](https://docs.docker.com/engine/install/linux-postinstall/)
