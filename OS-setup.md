@@ -6,6 +6,7 @@
 
 ### Pop!_OS tweaks
 
+* Settings -> Keyboard -> Customize Shortcuts -> Switch windows -> Set to Alt+Tab
 * USB Sound devices can be completely removed from the list [like this](https://jamielinux.com/blog/tell-pulseaudio-to-ignore-a-usb-device-using-udev/).
 * If the default sound device isn't being saved correctly in Pop!_OS, [try this](https://unix.stackexchange.com/a/362258).  
   Currently the end of /etc/pulse/default.pa looks like:
