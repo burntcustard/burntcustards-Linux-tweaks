@@ -66,7 +66,8 @@ FTP Client.
 `$ sudo apt install filezilla`  
 
 ### :computer: [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/)
-Ubuntus default terminal emulator is pretty good.
+Ubuntus default terminal emulator is pretty good. There's a few small CLI tools I use with it (list is WIP):  
+`$ sudo apt install knockd`
 
 ### :gear: [Gnome Tweaks](https://wiki.gnome.org/action/show/Apps/Tweaks)
 The desktop environment in Ubuntu is kind of funky. TODO: Tweaks list and link to it here.  
