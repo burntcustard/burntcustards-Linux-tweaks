@@ -93,6 +93,10 @@ For accessing client sites that have IP restrictions.
 `$ sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh) && sudo usermod -aG nordvpn $USER`  
 (then relog)
 
+### ✒️ [FontForge](https://fontforge.org)
+For editing font files.  
+`$ sudo apt install fontforge`
+
 ### All at once
 ```
 sudo apt install atom && apm install autocomplete-emojis fonts pretty-json linter-sass-lint pigments sort-lines && snap install discord && snap install slack --classic && sudo apt install git && sudo apt install nautilus-dropbox && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb && curl -L https://git.io/n-install | bash && sudo apt install gnome-tweaks && sudo apt install autokey-gtk
