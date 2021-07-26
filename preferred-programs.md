@@ -88,6 +88,10 @@ For complex keyboard shortcuts so I can type '@extend', etc. faster.
 `$ sudo apt install autokey-gtk`  
 [Fix for pasting blank lines if needed](https://www.codyeding.com/dbus-autokey-ubuntu/)
 
+### ☯️ [Synergy](https://symless.com/synergy)  
+For sharing keyboard, mouse, and clipboard between PCs.  
+Follow [instructions here](https://symless.com/help-articles/installing-synergy-1-13-1-on-ubuntu) then [make back/forward mouse buttons work](https://mfcallahan.blog/2021/02/16/making-the-mouse-forward-and-back-buttons-work-when-using-synergy-finally/).
+
 ### :detective: [NordVPN](https://nordvpn.com/)
 For accessing client sites that have IP restrictions.  
 `$ sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh) && sudo usermod -aG nordvpn $USER`  
