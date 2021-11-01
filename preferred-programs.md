@@ -49,7 +49,7 @@ My 2nd favourite web browser. Mainly used for compatibility and performance test
 `$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb && sudo dpkg -i google-chrome-stable_current_amd64.deb`  
 
 ### :nut_and_bolt: [Node](https://nodejs.org/), [NPM](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
-JavaScript runtime and a nice package manager for it, via n. Also yarn, because some projects might need it.  
+JavaScript runtime and a nice package manager for it, via [n](https://github.com/tj/n). Also yarn, because some projects might need it.  
 `$ curl -L https://git.io/n-install | bash`  
 `$ npm install --global yarn`  
 
