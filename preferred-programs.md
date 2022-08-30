@@ -1,8 +1,11 @@
 # Preferred Programs
 
+### :memo: [VSCode](https://code.visualstudio.com/)
+My new favourite text editor  
+`sudo snap install --classic code`
 
 ### :memo: [Atom](https://atom.io/)
-My current-favourite text editor  
+My old-favourite text editor  
 `$ wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add`  
 `$ sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'`  
 `$ sudo apt install atom`  
