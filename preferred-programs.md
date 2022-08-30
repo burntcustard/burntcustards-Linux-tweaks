@@ -4,6 +4,10 @@
 My new favourite text editor  
 `sudo snap install --classic code`
 
+### ✒️ [FiraCode](https://github.com/tonsky/FiraCode)
+A nice font  
+`sudo apt install fonts-firacode`
+
 ### :memo: [Atom](https://atom.io/)
 My old-favourite text editor  
 `$ wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add`  
