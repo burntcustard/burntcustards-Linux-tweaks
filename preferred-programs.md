@@ -1,11 +1,11 @@
 # Preferred Programs
 
 ### :memo: [VSCode](https://code.visualstudio.com/)
-My new favourite text editor  
+My new favourite text editor.  
 `sudo snap install --classic code`
 
 ### ✒️ [FiraCode](https://github.com/tonsky/FiraCode)
-A nice font  
+A nice font.  
 `sudo apt install fonts-firacode`
 
 ### :speech_balloon: [Discord](https://discordapp.com/)
