@@ -49,7 +49,8 @@ Used to save the majority of my files to. Installed as Nautilus extension for ni
 `$ sudo apt install nautilus-dropbox`
 
 ### :fox_face: [Firefox](http://firefox.com/)
-My favourite web browser. With [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)
+My favourite web browser. With [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)  
+Remember to 'Disable HTTP Cache (when toolbox open)' with `Dev-tools -> Settings -> Advanced-settings` or `F12 -> F1`
 
 ### :globe_with_meridians: [Chrome](https://www.chromium.org/Home)
 My 2nd favourite web browser. Mainly used for compatibility and performance testing (hence the more popular Chrome over Chromium).  
@@ -107,6 +108,10 @@ For accessing client sites that have IP restrictions.
 ### ✒️ [FontForge](https://fontforge.org)
 For editing font files.  
 `$ sudo apt install fontforge`
+
+### Other
+Apparently gnome-screenshot doesn't ship with Pop!_OS Anymore?  
+`$ sudo apt isntall gnome-screenshot`
 
 ### All at once
 ```
