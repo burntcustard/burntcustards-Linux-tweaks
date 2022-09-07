@@ -8,30 +8,6 @@ My new favourite text editor
 A nice font  
 `sudo apt install fonts-firacode`
 
-### :memo: [Atom](https://atom.io/)
-My old-favourite text editor  
-`$ wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add`  
-`$ sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'`  
-`$ sudo apt install atom`  
-`$ apm install autocomplete-emojis fonts pretty-json pigments sort-lines linter-stylelint linter-eslint platformio-ide-terminal`  
-
-<dl>
-  <dt>Packages</dt>
-  <dd>
-    <a href="https://atom.io/packages/autocomplete-emojis">Autocomplete Emojis</a><br>
-    <a href="https://atom.io/packages/fonts">Fonts, with Source Code Pro Medium Selected</a><br>
-    <a href="https://atom.io/packages/pretty-json">Pretty JSON</a><br>
-    <a href="https://atom.io/packages/pigments">Pigments</a><br>
-    <a href="https://atom.io/packages/sort-lines">Sort Lines</a><br>
-    <a href="https://atom.io/packages/linter-sass-lint">linter-sass-lint (old projects)</a><br>
-    <a href="https://atom.io/packages/linter-sass-lint">linter-stylelint (new projects)</a><br>
-    <a href="https://atom.io/packages/linter-eslint">linter-eslint</a><br>
-    <a href="https://atom.io/packages/platformio-ide-terminal">platformio-ide-terminal</a><br>
-  </dd>
-</dl>
-
-If linter-eslint isn't working as expected, the scopes list probably needs `source.tsx` and/or other file types added.
-
 ### :speech_balloon: [Discord](https://discordapp.com/)
 For text and video chatting to people, groups, and bots.  
 `$ flatpak install flathub com.discordapp.Discord` or `$ snap install discord`
