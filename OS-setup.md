@@ -8,14 +8,6 @@
 
 * Settings -> Keyboard -> Customize Shortcuts -> Switch windows -> Set to Alt+Tab
 * USB Sound devices can be completely removed from the list [like this](https://jamielinux.com/blog/tell-pulseaudio-to-ignore-a-usb-device-using-udev/).
-* If the default sound device isn't being saved correctly in Pop!_OS, [try this](https://unix.stackexchange.com/a/362258).  
-  Currently the end of /etc/pulse/default.pa looks like:
-  ```
-  set-card-profile 1 input:analog-stereo
-  set-default-source 0
-  set-card-profile 2 output:iec958-stereo
-  set-default-sink 0
-  ```
 * Pop!_OS attempts to use Bluetooth drivers for a built-in chip that might not work with audio devices. To disable it ([based off this](https://silvae86.github.io/2020/04/17/disable-specific-bluetooth-adapter-ubuntu-19/)):
   1. Create a new file to contain a script:  
      `sudo gedit /etc/init.d/disable_builtin_bluetooth`
