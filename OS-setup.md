@@ -16,6 +16,20 @@
   set-card-profile 2 output:iec958-stereo
   set-default-sink 0
   ```
+* Pop!_OS attempts to use Bluetooth drivers for a built-in chip that might not work with audio devices. To disable it ([based off this](https://silvae86.github.io/2020/04/17/disable-specific-bluetooth-adapter-ubuntu-19/)):
+  1. Create a new file to contain a script:  
+     `sudo gedit /etc/init.d/disable_builtin_bluetooth`
+  3. Paste this inside:
+     ```bash
+     #!/bin/bash
+     echo "Disabling hci0 bluetooth adapter"
+     /usr/bin/hciconfig hci0 down &
+     ```
+  3. Give it execution permissions  
+    `sudo chmod +x /etc/init.d/disable_builtin_bluetooth`
+  4. Run update-rc.d to wire all the symlinks needed for boot  
+     `update-rc.d disable_builtin_bluetooth start 26 2 3 4 5 .`
+  6. Reboot
 
 ### Disable Lock Screen in Win10
 
