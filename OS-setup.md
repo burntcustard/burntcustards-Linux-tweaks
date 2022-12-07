@@ -8,20 +8,16 @@
 
 * Settings -> Keyboard -> Customize Shortcuts -> Switch windows -> Set to Alt+Tab
 * USB Sound devices can be completely removed from the list [like this](https://jamielinux.com/blog/tell-pulseaudio-to-ignore-a-usb-device-using-udev/).
-* Pop!_OS attempts to use Bluetooth drivers for a built-in chip that might not work with audio devices. To disable it ([based off this](https://silvae86.github.io/2020/04/17/disable-specific-bluetooth-adapter-ubuntu-19/)):
-  1. Create a new file to contain a script:  
-     `sudo gedit /etc/init.d/disable_builtin_bluetooth`
-  3. Paste this inside:
-     ```bash
-     #!/bin/bash
-     echo "Disabling hci0 bluetooth adapter"
-     /usr/bin/hciconfig hci0 down &
-     ```
-  3. Give it execution permissions  
-    `sudo chmod +x /etc/init.d/disable_builtin_bluetooth`
-  4. Run update-rc.d to wire all the symlinks needed for boot  
-     `update-rc.d disable_builtin_bluetooth start 26 2 3 4 5 .`
-  6. Reboot
+* Pop!_OS attempts to use Bluetooth drivers for a built-in chip that might not work with audio devices. To disable it ([based off this](https://www.gaunt.dev/blog/2022/linux-and-bluetooth-dongle/)):  
+  
+1. Run `lsusb` and `hciconfig -a` to determine Vendor and Product ID.  
+2. Block the built-in device from being used with a udev rule, by creating a file:  
+   `sudo -H gedit /etc/udev/rules.d/81-bluetooth-hci.rules`  
+3. Paste into the file:  
+   `SUBSYSTEM=="usb", ATTRS{idVendor}=="<Vendor ID>", ATTRS{idProduct}=="<Product ID>", ATTR{authorized}="0"`  
+   For example:  
+   `SUBSYSTEM=="usb", ATTRS{idVendor}=="8087", ATTRS{idProduct}=="0029", ATTR{authorized}="0"`  
+4. Reboot.
 
 ### Disable Lock Screen in Win10
 
